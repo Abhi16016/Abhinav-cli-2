@@ -2,5 +2,5 @@
 
 Command to use in your terminal :
 ```
-npx abhinavdev
+npx abhinav
 ```
